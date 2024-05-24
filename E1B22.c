@@ -49,6 +49,7 @@ void printMainMenu() {
     printf("|                                       |\n");
     printf("|                                       |\n");
     printf("|                                       |\n");
+    printf("|                                       |\n");
     printf("|        a. Available seats             |\n");
     printf("|                                       |\n");
     printf("|                                       |\n");
